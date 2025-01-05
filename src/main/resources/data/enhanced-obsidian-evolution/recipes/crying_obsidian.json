@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "crafting",
+  "pattern": [
+    "#S#",
+    "SLS",
+    "#S#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:amethyst_shard"
+    },
+    "S": {
+      "item": "enhanced-obsidian-evolution:obsidian_scrap"
+    },
+    "L": {
+      "item": "minecraft:lapis_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:crying_obsidian",
+    "count": 1
+  }
+}
