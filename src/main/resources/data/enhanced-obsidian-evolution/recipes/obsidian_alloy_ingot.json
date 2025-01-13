@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "crafting",
+  "pattern": [
+    "###",
+    "#SS",
+    "SS "
+  ],
+  "key": {
+    "#": {
+      "item": "enhanced-obsidian-evolution:obsidian_scrap"
+    },
+    "S": {
+      "item": "minecraft:netherite_scrap"
+    }
+  },
+  "result": {
+    "item": "enhanced-obsidian-evolution:obsidian_alloy_ingot",
+    "count": 1
+  }
+}

@@ -16,10 +16,12 @@ public class ModItems {
 
     // Registers obsidian scrap as an item
     public static final Item OBSIDIAN_SCRAP = registerItem("obsidian_scrap", new Item(new FabricItemSettings()));
+    public static final Item OBSIDIAN_ALLOY_INGOT = registerItem("obsidian_alloy_ingot", new Item(new FabricItemSettings()));
 
     // Adds obsidian scrap to the ingredients item group in the creative mode menu
     private static void addItemsToIngredientsItemGroup(FabricItemGroupEntries entries) {
         entries.add(OBSIDIAN_SCRAP);
+        entries.add(OBSIDIAN_ALLOY_INGOT);
     }
 
     // Register individual item function, "name" is always "obsidian_scrap". Leaving in case future items are added.

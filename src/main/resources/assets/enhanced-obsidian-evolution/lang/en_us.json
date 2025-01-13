@@ -1,5 +1,8 @@
 {
   "item.enhanced-obsidian-evolution.obsidian_scrap": "Obsidian Scrap",
   "advancements.enhanced_obsidian.obtain_obsidian_scrap.title": "The Great Obsidian Bake-off",
-  "advancements.enhanced_obsidian.obtain_obsidian_scrap.description": "Obtain Obsidian Scrap by smelting Obsidian in a blast furnace"
+  "advancements.enhanced_obsidian.obtain_obsidian_scrap.description": "Obtain Obsidian Scrap by smelting Obsidian in a blast furnace",
+  "item.enhanced-obsidian-evolution.obsidian_alloy_ingot": "Obsidian Alloy Ingot",
+  "advancements.enhanced_obsidian.obtain_obsidian_alloy_ingot.title": "Scrap the Old, Forge the New",
+  "advancements.enhanced_obsidian.obtain_obsidian_alloy_ingot.description": "Obtain Obsidian Alloy Ingot by crafting Obsidian Scrap and Netherite Scrap together"
 }

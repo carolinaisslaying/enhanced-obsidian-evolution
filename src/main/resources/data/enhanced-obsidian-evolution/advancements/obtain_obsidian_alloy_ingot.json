@@ -1,0 +1,38 @@
+{
+  "parent": "enhanced-obsidian-evolution:obtain_obsidian_scrap",
+  "criteria": {
+    "obsidian_alloy_ingot": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "enhanced-obsidian-evolution:obsidian_alloy_ingot"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.enhanced_obsidian.obtain_obsidian_alloy_ingot.description"
+    },
+    "icon": {
+      "item": "enhanced-obsidian-evolution:obsidian_alloy_ingot"
+    },
+    "title": {
+      "translate": "advancements.enhanced_obsidian.obtain_obsidian_alloy_ingot.title"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "requirements": [
+    [
+      "obsidian_alloy_ingot"
+    ]
+  ],
+  "sends_telemetry_event": false
+}
